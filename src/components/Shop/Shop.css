@@ -1,5 +1,5 @@
 .shop-container{
-    
+
     display: grid;
     grid-template-columns: 4fr  1fr;
 }
@@ -12,6 +12,9 @@
 }
 .cart-container{
     background-color: #FF99004D;
+    /* height: 100vh; */
+ 
+    
 }
 .summary-heading{
     text-align: center;
