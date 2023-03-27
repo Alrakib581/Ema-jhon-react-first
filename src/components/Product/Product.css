@@ -15,13 +15,14 @@
     margin-bottom: 50px;
 }
 .card button{
-    width: 99%;
+    width: 100%;
     border: 1px solid #95A0A7;
     border-radius: 0px 0px 8px 8px;
     background-color: #FFE0B3;
-    margin: 1px;
     position: absolute;
     bottom: 0;
     padding: 10px;
     font-weight: bold;
+    display: block;
+    margin:0 auto;
 }

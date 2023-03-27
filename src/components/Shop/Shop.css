@@ -11,5 +11,9 @@
     gap: 50px;
 }
 .cart-container{
-    background-color: brown;
+    background-color: #FF99004D;
+}
+.summary-heading{
+    text-align: center;
+    font-weight: 500;
 }

@@ -20,13 +20,14 @@ const Shop = () => {
                      price={product.price}
                      seller={product.seller}
                      ratings={product.ratings}
+                     key={product.id}
                      >
                  </Product>)
 
                 }
             </div>
             <div className="cart-container">
-                <h2>Orderd summary</h2>
+                <h2 className='summary-heading'>Ordered summary</h2>
             </div>
         </div>
     );
